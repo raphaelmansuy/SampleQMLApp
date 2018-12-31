@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/fonts/Roboto-Black.ttf</file>
+        <file>assets/fonts/Roboto-BlackItalic.ttf</file>
+        <file>assets/fonts/Roboto-Bold.ttf</file>
+        <file>assets/fonts/Roboto-BoldItalic.ttf</file>
+        <file>assets/fonts/Roboto-Italic.ttf</file>
+        <file>assets/fonts/Roboto-Light.ttf</file>
+        <file>assets/fonts/Roboto-LightItalic.ttf</file>
+        <file>assets/fonts/Roboto-Medium.ttf</file>
+        <file>assets/fonts/Roboto-MediumItalic.ttf</file>
+        <file>assets/fonts/Roboto-Regular.ttf</file>
+        <file>assets/fonts/Roboto-Thin.ttf</file>
+        <file>assets/fonts/Roboto-ThinItalic.ttf</file>
+        <file>assets/images/back.svg</file>
+        <file>assets/images/home.svg</file>
+        <file>assets/images/recent.svg</file>
+        <file>assets/images/battery.svg</file>
+        <file>assets/images/reception.svg</file>
+        <file>assets/images/wifi.svg</file>
+        <file>assets/images/wifi.png</file>
+        <file>assets/images/wifi@2x.png</file>
+        <file>assets/images/wifi@3x.png</file>
+        <file>assets/images/reception@2x.png</file>
+        <file>assets/images/reception@3x.png</file>
+        <file>assets/images/battery@1x.png</file>
+        <file>assets/images/battery@2x.png</file>
+        <file>assets/images/battery@3x.png</file>
+        <file>assets/images/menu.png</file>
+        <file>assets/images/menu.svg</file>
+        <file>assets/images/menu@2x.png</file>
+        <file>assets/images/menu@3x.png</file>
+        <file>assets/images/more.png</file>
+        <file>assets/images/more.svg</file>
+        <file>assets/images/more@2x.png</file>
+        <file>assets/images/more@3x.png</file>
+        <file>assets/images/search.png</file>
+        <file>assets/images/search.svg</file>
+        <file>assets/images/search@2x.png</file>
+        <file>assets/images/search@3x.png</file>
+    </qresource>
+</RCC>

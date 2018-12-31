@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/controls/ApplicationWindow.qml</file>
+        <file>qml/controls/NavigationBar.qml</file>
+        <file>qml/components/Palette.qml</file>
+        <file>qml/controls/StatusBar.qml</file>
+        <file>qml/controls/Label.qml</file>
+        <file>qml/controls/ToolBar.qml</file>
+        <file>qml/controls/TabBar.qml</file>
+        <file>qml/controls/HorizontalSpacer.qml</file>
+        <file>qml/controls/AbstractButton.qml</file>
+        <file>qml/controls/ToolButton.qml</file>
+        <file>qml/controls/TabButton.qml</file>
+        <file>qml/controls/ContactDelegate.qml</file>
+    </qresource>
+</RCC>
